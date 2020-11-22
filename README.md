@@ -24,7 +24,7 @@ YOLO is a state-of-the-art, real-time object detection algorithm. In this notebo
 
 
 
-####Reference 
+#### Reference 
 1. https://models.roboflow.com/object-detection/yolov5
 2. https://roboflow.com/
 3. https://pjreddie.com/darknet/yolo/
