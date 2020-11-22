@@ -1,4 +1,4 @@
-##Document Detection Model (YOLOv5):
+# Document Detection Model (YOLOv5):
 This project is an attempt to provide a framework for document detection *(whether an image is valid document or not)* using YOLOv5 model which can be hosted anywhere without any difficulty. The  
 
 #### How to Setup and Run:
